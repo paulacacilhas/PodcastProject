@@ -1,5 +1,5 @@
 # PodcastProject
-Projeto feito visando criar um podcast utilizando Inteligência Artificial em toda sua criação
+Projeto feito visando criar um podcast utilizando Inteligência Artificial em sua criação
 
 ## Criando a imagem:
 ### Prompt Utilizado:
